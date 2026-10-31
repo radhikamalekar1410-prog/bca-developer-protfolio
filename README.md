@@ -18,5 +18,4 @@ My goals is:-
 •Imporve my problem solving skills through real world exposure
 
 connect with me:-
-GitHub: radhikamalekar1410# bca-developer-protfolio
-My programming projects, coding practice and practical learning as a BCA student.
+GitHub: radhikamalekar1410
